@@ -2,3 +2,5 @@ CP2 Testing/test_images.npy
 CP2 Testing/train_images.npy
 CP2 Testing/Resized_Images/
 CP2 Testing/Test Resized/
+CP2 Scoring/test_images.npy
+CP2 Scoring/Results/*
