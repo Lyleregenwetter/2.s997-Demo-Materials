@@ -4,4 +4,7 @@ CP2 Testing/Resized_Images/
 CP2 Testing/Test Resized/
 CP2 Scoring/test_images.npy
 CP2 Scoring/Results/*
+CP2 Scoring/Results/leaderboard.csv
+CP2 Scoring/Results/Submissions.csv
+CP2 Scoring/Results/scored_submissions.csv
 CP2 Testing/images.npy
