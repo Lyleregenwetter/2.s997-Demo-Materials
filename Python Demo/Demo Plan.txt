@@ -1,0 +1,16 @@
+https://www.anaconda.com/products/individual
+https://conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html
+conda env list
+conda create --name python_demo_env
+activate python_demo_env
+conda install numpy
+conda list
+
+conda deactivate
+conda remove --name python_demo_env --all
+
+conda create --name python_demo_env --clone pymoo
+conda activate python_demo_env
+conda env list
+conda list
+C:\Users\Lyleregenwetter\Anaconda3\envs
