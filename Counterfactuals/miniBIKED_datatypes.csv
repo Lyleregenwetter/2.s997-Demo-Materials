@@ -1,0 +1,181 @@
+,type
+BIKESTYLE,object
+BB textfield,float64
+Seat tube length,float64
+Stack,float64
+Head tube upper extension2,float64
+Seat angle,float64
+CS textfield,float64
+FCD textfield,float64
+Seat tube extension2,float64
+Head tube lower extension2,float64
+Head angle,float64
+Saddle height,float64
+ERD rear,float64
+Wheel width rear,float64
+Dropout spacing,float64
+SPOKES composite front,int64
+SPOKES front,int64
+Wheel diameter front,float64
+Dropout spacing style,str
+RIM_STYLE front,object
+SAME_SIZED_FRONT_AND_REAR,bool
+BSD front,float64
+RIM_STYLE rear,object
+Wheel diameter rear,float64
+SPOKES rear,int64
+Wheel width front,float64
+SPOKES composite rear,int64
+ERD front,float64
+BSD rear,float64
+SBLADEW front,float64
+SBLADEW rear,float64
+FORK0R,float64
+FORK0L,float64
+Fork type,str
+Saddle P,float64
+Saddle thickness,float64
+Saddle angle,float64
+Saddle J,float64
+Saddle H,float64
+Saddle E,float64
+SADDLETIPtoMIDDLE,float64
+Saddle length,float64
+Seatpost setback,float64
+Seatpost LENGTH,int64
+Lower stack height,float64
+HEADSETprofile,str
+Upper stack height,float64
+Headset spacers,float64
+Stem angle,float64
+CLAMPOFFSET,float64
+Stem kind,str
+StemX,int64
+StemY,float64
+StemG,float64
+Collar height,float64
+Stem length,float64
+AEROF,int64
+Hand horizontal,int64
+Aerobar style,str
+Pad vertical,float64
+Display AEROBARS,bool
+Hand vertical,int64
+HBARRISE,float64
+MtnBar angle,float64
+Mountain bar sweep,float64
+MTNDROP,float64
+HBARTHETA,float64
+Mountain bar rise,float64
+Handlebar angle,float64
+Bullhorn reach,int64
+BULLTHETA,int64
+Road bar reach,float64
+BULLRADIUS2,int64
+Road bar drop,float64
+Brake lever position,int64
+Brake lever brand,object
+Bullhorn drop,float64
+Bullhorn rise,float64
+Bullhorn risy,int64
+Bullhorn angle,float64
+HBAREXTEND,float64
+Handlebar style,str
+HBARRAD1,float64
+HBARRAD2,float64
+TRACK_ERGO,str
+Down tube front diameter,float64
+Down tube rear dia2,float64
+Down tube front dia2,float64
+Down tube rear diameter,float64
+Head tube type,str
+Seat tube leading edge textfield,float64
+BB length,float64
+Seat tube chord length textfield,float64
+Top tube rear diameter,float64
+Down tube leading edge,float64
+Head tube diameter,float64
+DOWNTUBE Wheel cut,int64
+Wheel cut,float64
+Down tube aero diameter,float64
+Top tube rear dia2,float64
+Top tube front dia2,float64
+BB diameter,float64
+Head tube chord,int64
+Seat tube diameter,float64
+Seat tube type,str
+OFFSET_AT_BB st,float64
+Top tube front diameter,float64
+Head tube d,float64
+Head tube B,float64
+Head tube E,float64
+Head tube D,float64
+Top tube type,str
+OFFSET_AT_BB dt,float64
+CHAINSTAYOFFSET,float64
+CHAINSTAYAUXrearDIAMETER,float64
+Chain stay horizontal diameter,float64
+Chain stay position on BB,float64
+Chain stay taper,float64
+Chain stay back diameter,float64
+Chain stay vertical diameter,float64
+CHAINSTAYbrdgdia1,float64
+CHAINSTAYbrdgshift,float64
+CHAINSTAYbrdgCheck,bool
+Seat stay junction0,float64
+Seat stay bottom diameter,float64
+SEATSTAY_HF,float64
+SSTopZOFFSET,float64
+SEATSTAY_HR,float64
+SEATSTAYTAPERLENGTH,int64
+SEATSTAYbrdgdia1,float64
+SEATSTAYbrdgoffset,int64
+bottle SEATTUBE0 WBX,int64
+bottle SEATTUBE0 WBY,float64
+bottle SEATTUBE0 CAGE,int64
+bottle DOWNTUBE0 X,float64
+bottle DOWNTUBE0 CAGE,int64
+bottle DOWNTUBE0 WBY,float64
+bottle DOWNTUBE0 WBX,float64
+bottle SEATTUBE0 show,object
+bottle DOWNTUBE0 show,object
+bottle SEATTUBE0 X,int64
+Front Fender clearance,float64
+Front fender end angle,float64
+Front Fender include,bool
+Rear Fender include,bool
+Rear fender end angle,float64
+Fender clearance,float64
+Rear fender start angle,float64
+Front fender start angle,float64
+FDDIST,int64
+SPIDER_DIAMETER,float64
+Crank length,float64
+BELTorCHAIN,str
+Number of cogs,int64
+Crank Q factor,float64
+PEDAL_LENGTH,float64
+Teeth on cog 2,int64
+Teeth on cog 3,int64
+Teeth on cog 4,int64
+Teeth on cog 5,int64
+Teeth on cog 6,int64
+Teeth on cog 7,int64
+Teeth on cog 8,int64
+Teeth on cog 9,int64
+MOUNT_TYPE,object
+Pedal width,float64
+Teeth on cog 10,int64
+Number of chainrings,int64
+Teeth on chainring 0,int64
+Teeth on chainring 1,int64
+Teeth on chainring 2,int64
+CassZ,float64
+CassT,float64
+CassA,float64
+BRAZEonFDTYPE,object
+Teeth on cog 11,int64
+DIRECTMOUNTFDTYPE,object
+CLAMPFDTYPE,object
+Display RACK,bool
+spc type,str
